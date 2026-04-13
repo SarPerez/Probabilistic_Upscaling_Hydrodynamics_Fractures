@@ -12,7 +12,7 @@ Download link:
 
 - https://doi.org/10.5281/zenodo.19554304
 
-This pretrained checkpoint allows users to run the probabilistic upscaling workflow directly on example fracture aperture fields provided in the repository, or on new compatible aperture data, without retraining the Residual U-Net from scratch.
+This pretrained checkpoint is provided for direct inference with `Probabilistic_Upscaling.py`. It allows users to apply the probabilistic upscaling workflow directly to the example fracture aperture fields included in the repository, or to new compatible aperture inputs, without retraining the Residual U-Net from scratch.
 
 After downloading the archive, place the file in this directory so that the expected path is:
 
