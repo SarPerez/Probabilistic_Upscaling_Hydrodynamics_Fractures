@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+outputs/
+figs/
+*.mat
+dataset/Dataset_apertures_to_perms.npy
+models/residual_unet_pretrained.pth
