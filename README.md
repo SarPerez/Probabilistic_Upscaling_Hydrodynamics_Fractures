@@ -87,3 +87,6 @@ To run `Darcy_Upscaling_MRST.m`, you need:
 Please make sure MRST is installed and added to the MATLAB path before running the upscaling script.
 
 ## Citation
+This repository contains the supplementary code to the following manuscript: **S. Perez et al.** *"Probabilistic Upscaling of Hydrodynamics in Geological Fractures Under Uncertainty"*. If you use this work, please cite the associated paper (TBD), the Zenodo DOI for this GitHub repository (**https://doi.org/10.5281/zenodo.19556325**), and the Zenodo archive for the processed dataset and pretrained model (**https://doi.org/10.5281/zenodo.19554304**). 
+
+For work that also builds on the Bayesian correction framework underlying this study, please consider citing the related GRL paper (**https://doi.org/10.1029/2025GL117776**) and its associated archived code repository (**https://doi.org/10.5281/zenodo.15721753**).
